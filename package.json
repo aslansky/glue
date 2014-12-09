@@ -22,7 +22,7 @@
   },
   "peerDependencies": {
     "hapi": "8.x.x"
-  }
+  },
   "devDependencies": {
     "catbox-memory": "1.x.x",
     "code": "1.x.x",
